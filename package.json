@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-jsx-align",
+  "version": "1.0.0",
+  "description": "An ESLint plugin to align JSX assignments",
+  "main": "index.js",
+  "keywords": ["eslint", "plugin", "jsx", "alignment"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nik-garg/eslint-plugin-jsx-align.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Garg",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
